@@ -1,0 +1,3 @@
+#!/bin/bash
+gcc -c -m32 assem.S
+objdump -d assem.o >machinecode.txt

@@ -1,0 +1,2 @@
+#!/bin/bash
+cat ans0.txt| ./hex2raw | ./bufbomb -u wang

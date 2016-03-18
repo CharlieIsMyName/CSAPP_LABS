@@ -1,0 +1,5 @@
+movl $0x3d3a50ce,%eax
+sub $4,%esp
+leal 0xc(%esp),%ebp
+movl $0x8048e3a,(%esp)
+ret

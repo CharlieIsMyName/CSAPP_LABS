@@ -1,0 +1,2 @@
+#!/bin/bash
+./sim -s 2 -E 1 -b 4 -t path

